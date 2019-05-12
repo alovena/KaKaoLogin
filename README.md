@@ -1,5 +1,5 @@
 # KaKaoLogin
-![Strawberry.png](./image/Strawberry.png)
+![Strawberry.png](./image/strawberry.jpg)
 
 # Project 소개
 
@@ -10,4 +10,6 @@
 * 결과반환(Result)
 
 # 결과
-* ![kakaolong.png](./image/Strawberry.png)
+* ![kakaolong.png](./image/kakaoSimple.gif)
+* ![kakaolong.png](./image/kakaospec1.gif)
+* ![kakaolong.png](./image/kakaospec2.gif)
