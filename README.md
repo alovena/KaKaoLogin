@@ -30,8 +30,8 @@
 ~~(아이디와 비밀번호를 가리기 위해 영상을 조금 잘랐습니다 양해부탁드려요.)~~
 
 ## **프로젝트 구조도**
-**빨간부분이 변경해야하는 부분입니다.**
-![initial](https://github.com/alovena/KaKaoLogin/image/mani.png)
+**빨간부분이 변경해야하는 부분입니다.**  
+![abab](https://user-images.githubusercontent.com/32647144/57578717-a57b9180-74cc-11e9-9e0a-e992f08be8de.jpg)
 ## **매니페스트**  
 **밑줄부분에 키 값 삽입**
 <img src="./image/mani.png" width="80%" height="350"></img>
