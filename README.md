@@ -30,3 +30,4 @@
 ~~(아이디와 비밀번호를 가리기 위해 영상을 조금 잘랐습니다 양해부탁드려요.)~~
 
 ## **프로젝트 구조도**
+<img src="./image/project_struct.png" width="100%" height="350"></img>
