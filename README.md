@@ -10,6 +10,7 @@
 * 결과반환(Result)
 
 # 결과
+카카오 간편 로그인
 * <img src="./image/kakaoSimple.gif" width="250" height="450"></img>
-* <img src="./image/kakaoSpec1.gif" width="250" height="450"></img>
+카카오 다른아이디 로그인
 * <img src="./image/kakaoSpec2.gif" width="250" height="450"></img>
