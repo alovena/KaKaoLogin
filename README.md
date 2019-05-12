@@ -31,10 +31,10 @@
 
 ## **프로젝트 구조도**
 **빨간부분이 변경해야하는 부분입니다.**  
-![abab](https://user-images.githubusercontent.com/32647144/57578717-a57b9180-74cc-11e9-9e0a-e992f08be8de.jpg)
+![project_struct](https://user-images.githubusercontent.com/32647144/57578726-cb089b00-74cc-11e9-96ee-cbced217bcb3.png)
 ## **매니페스트**  
 **밑줄부분에 키 값 삽입**
-<img src="./image/mani.png" width="80%" height="350"></img>
+![abab](https://user-images.githubusercontent.com/32647144/57578717-a57b9180-74cc-11e9-9e0a-e992f08be8de.jpg)
 ## **프로젝트 Gradle**
 **빨간부분이 추가해야하는 부분입니다.**
 <img src="./image/Project_greadle.png" width="70%" height="250"></img>
