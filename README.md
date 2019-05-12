@@ -37,13 +37,13 @@
 <img src="./image/mani.png" width="80%" height="350"></img>
 ## **프로젝트 Gradle**
 **빨간부분이 추가해야하는 부분입니다.**
-<img src="./image/Project_greadle.png" width="70%" height="350"></img>
+<img src="./image/Project_greadle.png" width="70%" height="250"></img>
 ## **프로젝트 Gradle**
 **빨간부분이 추가해야하는 부분입니다.**
-<img src="./image/Project_greadle.png" width="70%" height="350"></img>
+<img src="./image/Project_greadle.png" width="70%" height="250"></img>
 ## **모듈 Gradle**
 **빨간부분이 추가해야하는 부분입니다.**
-<img src="./image/module_gradle.png" width="70%" height="350"></img>
+<img src="./image/module_gradle.png" width="70%" height="250"></img>
 ## **Properties Gradle**
 **빨간부분이 추가해야하는 부분입니다.**
-<img src="./image/properties_gradle.png" width="70%" height="350"></img>
+<img src="./image/properties_gradle.png" width="70%" height="250"></img>
