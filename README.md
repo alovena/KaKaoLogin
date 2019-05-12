@@ -31,19 +31,19 @@
 
 ## **프로젝트 구조도**
 **빨간부분이 변경해야하는 부분입니다.**
-<img src="./image/project_struct.png" width="80%" height="350"></img>
-## **매니페스트**
+<img src="./image/project_struct.png" width="70%" height="350"></img>
+## **매니페스트**  
 **밑줄부분에 키 값 삽입**
 <img src="./image/mani.png" width="80%" height="350"></img>
 ## **프로젝트 Gradle**
-**빨간부분이 변경해야하는 부분입니다.**
-<img src="./image/Project_greadle.png" width="80%" height="350"></img>
+**빨간부분이 추가해야하는 부분입니다.**
+<img src="./image/Project_greadle.png" width="70%" height="350"></img>
 ## **프로젝트 Gradle**
-**빨간부분이 변경해야하는 부분입니다.**
-<img src="./image/Project_greadle.png" width="80%" height="350"></img>
+**빨간부분이 추가해야하는 부분입니다.**
+<img src="./image/Project_greadle.png" width="70%" height="350"></img>
 ## **모듈 Gradle**
-**빨간부분이 변경해야하는 부분입니다.**
-<img src="./image/module_greadle.png" width="80%" height="350"></img>
+**빨간부분이 추가해야하는 부분입니다.**
+<img src="./image/module_gradle.png" width="70%" height="350"></img>
 ## **Properties Gradle**
-**빨간부분이 변경해야하는 부분입니다.**
-<img src="./image/properties_greadle.png" width="80%" height="350"></img>
+**빨간부분이 추가해야하는 부분입니다.**
+<img src="./image/properties_gradle.png" width="70%" height="350"></img>
