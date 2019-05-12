@@ -12,10 +12,10 @@
 # 결과
 카카오 간편 로그인
 <br>
-* <img src="./image/kakaoSimple.gif" width="250" height="450"></img>  
+<img src="./image/kakaoSimple.gif" width="250" height="450"></img>  
 <br>
 <br>
 <br>
 카카오 다른아이디 로그인  
 <br>
-* <img src="./image/kakaoSpec2.gif" width="250" height="450"></img>
+<img src="./image/kakaoSpec2.gif" width="250" height="450"></img>
