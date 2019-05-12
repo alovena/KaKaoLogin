@@ -31,16 +31,16 @@
 
 ## **프로젝트 구조도**
 **빨간부분이 변경해야하는 부분입니다.**  
-![project_struct](https://user-images.githubusercontent.com/32647144/57578726-cb089b00-74cc-11e9-96ee-cbced217bcb3.png)
+![pro_st](https://user-images.githubusercontent.com/32647144/57578799-e6c07100-74cd-11e9-94b6-63efd1096045.jpg)
 ## **매니페스트**  
 **밑줄부분에 키 값 삽입**
-![abab](https://user-images.githubusercontent.com/32647144/57578717-a57b9180-74cc-11e9-9e0a-e992f08be8de.jpg)
+![abab](https://user-images.githubusercontent.com/32647144/57578795-e627da80-74cd-11e9-89f1-d04816fc9970.jpg)
 ## **프로젝트 Gradle**
 **빨간부분이 추가해야하는 부분입니다.**
-![Project_greadle](https://user-images.githubusercontent.com/32647144/57578756-2c306e80-74cd-11e9-9e7c-3de56118a3ec.png)
+![grd_1](https://user-images.githubusercontent.com/32647144/57578796-e627da80-74cd-11e9-9696-7a4f9c19b128.jpg)
 ## **모듈 Gradle**
 **빨간부분이 추가해야하는 부분입니다.**
-![module_gradle](https://user-images.githubusercontent.com/32647144/57578755-2c306e80-74cd-11e9-89c1-9842a1b49b40.png)
+![grd_2](https://user-images.githubusercontent.com/32647144/57578797-e6c07100-74cd-11e9-8b09-82755ad2de49.jpg)
 ## **Properties Gradle**
 **빨간부분이 추가해야하는 부분입니다.**
 ![properties_gradle](https://user-images.githubusercontent.com/32647144/57578757-2cc90500-74cd-11e9-8e47-548d7be60ed9.png)
