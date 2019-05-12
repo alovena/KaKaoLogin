@@ -43,4 +43,4 @@
 ![grd_2](https://user-images.githubusercontent.com/32647144/57578797-e6c07100-74cd-11e9-8b09-82755ad2de49.jpg)
 ## **Properties Gradle**
 **빨간부분이 추가해야하는 부분입니다.**
-![properties_gradle](https://user-images.githubusercontent.com/32647144/57578757-2cc90500-74cd-11e9-8e47-548d7be60ed9.png)
+![pro_gd](https://user-images.githubusercontent.com/32647144/57578798-e6c07100-74cd-11e9-96f8-7fcebc0129e7.jpg)
