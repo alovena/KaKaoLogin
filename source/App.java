@@ -20,7 +20,11 @@ import java.security.NoSuchAlgorithmException;
 import static com.kakao.util.helper.Utility.getPackageInfo;
 
 /**
- * Created by q on 2017-07-07.
+ * Created by q on 2019-05-12.
+ * 필수 권독 : 카카오 개발자 홈페이지에 앱의 SDK(Hash 키 등록)와 환경설정은 반드시 하고 이부분을 넘어오셔야합니다
+ * 필수 권독 : App파일 만드셔서 붙여넣기 하시면됩니다..
+ * 필수 권독 : 제가쓴 카카오 SDK 버전은 앞에 사진에 나와있듯 1.4.1 입니다. 현재 1.17과는 메서드 변경 부분이 있어서 
+ * 필수 권독 : SDK 버전을 최신 버전과 맞추게 되면 static 메서드 오류가 뜨는데 getInstace()를 붙여주시면 됩니다.( getInstance().requestme() ) 
  */
 
 public class App extends Application {
