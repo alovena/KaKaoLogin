@@ -10,6 +10,6 @@
 * 결과반환(Result)
 
 # 결과
-* <img src="./image/kakaosimple.gif" width="250" height="450"></img>
-* <img src="./image/kakaosimple.gif" width="250" height="450"></img>
-* <img src="./image/kakaosimple.gif" width="250" height="450"></img>
+* <img src="./image/kakaoSimple.gif" width="250" height="450"></img>
+* <img src="./image/kakaoSimple.gif" width="250" height="450"></img>
+* <img src="./image/kakaoSimple.gif" width="250" height="450"></img>
