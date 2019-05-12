@@ -31,7 +31,7 @@
 
 ## **프로젝트 구조도**
 **빨간부분이 변경해야하는 부분입니다.**
-![initial](https://github.com/alovena/KaKaoLogin/tree/master/image/mani.png)
+![initial](https://github.com/alovena/KaKaoLogin/image/mani.png)
 ## **매니페스트**  
 **밑줄부분에 키 값 삽입**
 <img src="./image/mani.png" width="80%" height="350"></img>
