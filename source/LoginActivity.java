@@ -175,7 +175,8 @@ public class LoginActivity extends AppCompatActivity {
                 user_nickname.setText(userProfile.getNickname());
                 user_email.setText(userProfile.getEmail());
                 aQuery.id(user_img).image(userProfile.getThumbnailImagePath()); // <- 프로필 작은 이미지 ,
-                // userProfile.getProfileImagePath() <- 큰 이미지
+                // userProfile.getProfileImagePath() <- 큰 이미지 
+                //성공시 Intent 로 메인화면으로 넘겨 주셔도 무방합니다!
             }
 
             @Override
