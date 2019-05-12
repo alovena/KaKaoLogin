@@ -38,18 +38,18 @@
 ## **프로젝트 Gradle**
 **빨간부분이 추가해야하는 부분입니다.**
 ![grd_1](https://user-images.githubusercontent.com/32647144/57578796-e627da80-74cd-11e9-9696-7a4f9c19b128.jpg)  
-mavenCentral()
+mavenCentral()  
 maven { url 'http://devrepo.kakao.com:8088/nexus/content/groups/public/' }  <--삽입
 ## **모듈 Gradle**
 **빨간부분이 추가해야하는 부분입니다.**
 ![grd_2](https://user-images.githubusercontent.com/32647144/57578797-e6c07100-74cd-11e9-8b09-82755ad2de49.jpg)  
  implementation group: project.KAKAO_SDK_GROUP, name: 'usermgmt', version: project.KAKAO_SDK_VERSION
- implementation 'com.googlecode.android-query:android-query:0.25.9' //AQuery
+ implementation 'com.googlecode.android-query:android-query:0.25.9' //AQuery  
  implementation 'de.hdodenhof:circleimageview:1.2.1' // CircleImageView
 ## **Properties Gradle**
 **빨간부분이 추가해야하는 부분입니다.**
 ![pro_gd](https://user-images.githubusercontent.com/32647144/57578798-e6c07100-74cd-11e9-96f8-7fcebc0129e7.jpg)  
 
-KAKAO_SDK_GROUP=com.kakao.sdk
-**KAKAO_SDK_VERSION=1.4.1**
+KAKAO_SDK_GROUP=com.kakao.sdk  
+**KAKAO_SDK_VERSION=1.4.1**  
 **현재 최신 버전(1.17.0)인 부분과는 상이 할 수 있습니다**
