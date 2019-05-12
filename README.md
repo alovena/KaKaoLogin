@@ -37,13 +37,10 @@
 ![abab](https://user-images.githubusercontent.com/32647144/57578717-a57b9180-74cc-11e9-9e0a-e992f08be8de.jpg)
 ## **프로젝트 Gradle**
 **빨간부분이 추가해야하는 부분입니다.**
-<img src="./image/Project_greadle.png" width="70%" height="250"></img>
-## **프로젝트 Gradle**
-**빨간부분이 추가해야하는 부분입니다.**
-<img src="./image/Project_greadle.png" width="70%" height="250"></img>
+![Project_greadle](https://user-images.githubusercontent.com/32647144/57578756-2c306e80-74cd-11e9-9e7c-3de56118a3ec.png)
 ## **모듈 Gradle**
 **빨간부분이 추가해야하는 부분입니다.**
-<img src="./image/module_gradle.png" width="70%" height="250"></img>
+![module_gradle](https://user-images.githubusercontent.com/32647144/57578755-2c306e80-74cd-11e9-89c1-9842a1b49b40.png)
 ## **Properties Gradle**
 **빨간부분이 추가해야하는 부분입니다.**
-<img src="./image/properties_gradle.png" width="70%" height="250"></img>
+![properties_gradle](https://user-images.githubusercontent.com/32647144/57578757-2cc90500-74cd-11e9-8e47-548d7be60ed9.png)
